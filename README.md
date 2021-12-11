@@ -1,4 +1,4 @@
-<h1>Telegram auto proxy extractor</h1>
+<h1>Telegram auto proxy grabber and checker</h1>
 <p>get mtproto proxies ping for connect to telegram</p>
 <ul>
   <li>send proxies to telegram channel with bot</li>
