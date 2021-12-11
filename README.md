@@ -13,4 +13,4 @@
   <li>import <a href="https://github.com/hiradsajde/proxyar_ch/blob/main/cron.php">./import.sql</a> in your mysql</li>
   <li>set 5 minuts cronjob in <a href="https://github.com/hiradsajde/proxyar_ch/blob/main/cron.php">cron.php</a></li>
 </ol>
-<h3>demo : <a href="t.me/proxyar_ch">t.me/proxyar_ch</a></h3>
+<h3>demo : <a href="https://t.me/proxyar_ch">t.me/proxyar_ch</a></h3>
